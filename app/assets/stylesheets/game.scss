@@ -1,0 +1,16 @@
+// Place all the styles related to the game controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.grid-wrapper{
+
+}
+
+.grid-container{
+  display: flex;
+  justify-content: center;
+}
+
+.grid-container div {
+  font-size: 30px;
+}
